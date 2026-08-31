@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Paisa-track/static/css/main.9b865a66.css",
+    "main.js": "/Paisa-track/static/js/main.48a8d73c.js",
+    "index.html": "/Paisa-track/index.html",
+    "main.9b865a66.css.map": "/Paisa-track/static/css/main.9b865a66.css.map",
+    "main.48a8d73c.js.map": "/Paisa-track/static/js/main.48a8d73c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b865a66.css",
+    "static/js/main.48a8d73c.js"
+  ]
+}
