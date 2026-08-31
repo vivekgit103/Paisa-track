@@ -1,8 +1,9 @@
 {
   "name": "paisatrack",
+
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://vivekgit103.github.io/Paisa-track",
+
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
